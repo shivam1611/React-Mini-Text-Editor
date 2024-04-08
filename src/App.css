@@ -265,4 +265,7 @@ footer {
   .text-input{
     height: 60vh;
   }
+  .left-side,.right-side{
+    font-size: .9rem;
+  }
 }

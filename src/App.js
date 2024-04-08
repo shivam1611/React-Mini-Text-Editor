@@ -249,9 +249,7 @@ function App() {
           </button>
         </div>
       </div>
-      <footer>
-        Developed by Shivam Sharma | Apprentice | Diploma | 2023 April
-      </footer>
+      
     </>
   );
 }
